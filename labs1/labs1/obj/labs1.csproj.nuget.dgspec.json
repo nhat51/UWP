@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ki2\\app\\labs1\\labs1\\labs1.csproj": {}
+    "D:\\Ki2\\UWP\\labs1\\labs1\\labs1.csproj": {}
   },
   "projects": {
-    "D:\\Ki2\\app\\labs1\\labs1\\labs1.csproj": {
+    "D:\\Ki2\\UWP\\labs1\\labs1\\labs1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ki2\\app\\labs1\\labs1\\labs1.csproj",
+        "projectUniqueName": "D:\\Ki2\\UWP\\labs1\\labs1\\labs1.csproj",
         "projectName": "labs1",
-        "projectPath": "D:\\Ki2\\app\\labs1\\labs1\\labs1.csproj",
+        "projectPath": "D:\\Ki2\\UWP\\labs1\\labs1\\labs1.csproj",
         "packagesPath": "C:\\Users\\nhatdz\\.nuget\\packages\\",
-        "outputPath": "D:\\Ki2\\app\\labs1\\labs1\\obj\\",
+        "outputPath": "D:\\Ki2\\UWP\\labs1\\labs1\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
